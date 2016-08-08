@@ -1,0 +1,29 @@
+{
+  "name": "xn-axon",
+  "version": "0.0.1",
+  "description": "axon backed xn",
+  "license": "MIT",
+  "author": {
+    "name": "yaniv kessler",
+    "email": "yanivk@gmail.com"
+  },
+  "scripts": {},
+  "dependencies": {
+    "axon": "^2.0.2",
+    "xn": "^0.1.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "axon",
+    "messaging",
+    "rpc",
+    "xn"
+  ],
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=2.0.0"
+  },
+  "repository": "kessler/node-xn-axon",
+  "bugs": "https://github.com/kessler/node-xn-axon/issues",
+  "homepage": "https://github.com/kessler/node-xn-axon"
+}
