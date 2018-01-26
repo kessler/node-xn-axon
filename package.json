@@ -10,7 +10,7 @@
   "scripts": {},
   "dependencies": {
     "axon": "^2.0.2",
-    "xn": "^0.2.0"
+    "xn": "^1.0.0"
   },
   "devDependencies": {},
   "keywords": [
